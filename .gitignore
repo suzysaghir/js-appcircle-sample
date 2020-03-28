@@ -11,3 +11,5 @@ plugin/*
 !plugin/Android/README.md
 !plugin/iOS/README.md
 node_modules/
+
+
